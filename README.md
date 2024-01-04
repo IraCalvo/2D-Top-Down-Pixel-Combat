@@ -15,4 +15,6 @@ This game features:
 - Tilemap and tilemap animations
 - animations
 - destructible objects
-- -Parallax Effect
+- Parallax Effect
+- Knockback
+- Camera FX
