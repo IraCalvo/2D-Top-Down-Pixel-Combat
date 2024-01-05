@@ -1,4 +1,3 @@
-https://github.com/IraCalvo/2D-Top-Down-Pixel-Combat/assets/115129139/669be6eb-7c2f-4ac8-bcd0-4de1bf22d7d7
 
 
 This game is one of my favorite coursework projects I've done. It really captures the feeling of bullet hell games that I personally 
